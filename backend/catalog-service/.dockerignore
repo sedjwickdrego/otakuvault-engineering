@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+
+# Git
+.git
+.gitignore
+
+# VS Code
+.vscode/
+
+# Tests
+tests/
+
+# macOS
+.DS_Store
+
+# Environment
+.env
